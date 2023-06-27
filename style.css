@@ -86,7 +86,7 @@ span {
     height: 100vh;
     width: 100%;
     position: relative;
-    background-image: url(../homeup.jpg);
+    background-image: url(homeup.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
